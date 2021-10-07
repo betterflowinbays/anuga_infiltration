@@ -41,8 +41,23 @@ from the cell will not occur.
 Class Kostiakov provides an option to test its operation by reporting
 infiltration on an single cell for all model time steps.
 
+References:
+
 Austin, N.R., Prendergast, J.B., 1997. Use of kinematic wave theory to
  model irrigation on cracking soil. Irrigation Science 18, 1–10.
 
+Githui, F., Hussain, A., Morris, M., 2015. Adapting ANUGA model for
+ border-check irrigation simulation, in: 21st International Congress
+ on Modelling and Simulation (MODSIM), 29 Nov to 4 Dec 2015, Gold
+ Coast, Australia.
+
+Githui, F. & Hussain, A. & Morris, M. 2020. Incorporating infiltration
+ in the two-dimensional ANUGA model for surface irrigation simulation.
+ Irrigation Science. 38.
+
 Hartley, D.M., 1992. Interpretation of Kostiakov Infiltration Parameters
  for Borders. J. Irrig. Drain Eng. 118, 156–165.
+
+Morris, M., Githui, F., Hussain, A., 2015. Application of Anuga as a 2D
+ surface irrigation model, 21st International Congress on Modelling and
+ Simulation (MODSIM), 29 Nov to 4 Dec 2015, Gold Coast, Australia.
